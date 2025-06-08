@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Системні файли
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# GitHub Pages build
+dist/
+build/
+.env
+
+# Logs
+*.log
+
+# Папка кешу
+.cache/
+
+package-lock
